@@ -1,7 +1,7 @@
 # teste de estagio onze news
 
 
-Link para o Figma [https://www.figma.com/design/n7krUiT7x2yCXEfVyF5Wgs/Teste-Estagio?node-id=1-4097&t=KwIvDkqw8Ct82pmn-4]
+Link para o Figma [https://www.figma.com/design/n7krUiT7x2yCXEfVyF5Wgs/Teste-Estagio?node-id=1-4097&t=VbRcdzRy7o8P6Ham-1]
 
 ### Objetivo principal:
 
