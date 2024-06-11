@@ -21,7 +21,7 @@ _(não se preocupe com o texto, vai ficar feio, mas o que vamos ver é o seu có
 
 _(use as ferramentas que forem de seu domínio)_
 
-- Ao clicar em Gerar , a saída gerada deve contar todas as palavras de todos os campos em ordem alfabética, excluindo todos os numeros.
+- Ao clicar em Gerar , a saída gerada deve conter todas as palavras de todos os campos em ordem alfabética, excluindo todos os numeros.
 
 
 ### Objetivos extras (opcional, desafios extras)
